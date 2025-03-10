@@ -1,4 +1,4 @@
-package Aula4.TesteLivraria;
+package Exercicios.TesteLivraria;
 
 public class Membro {
 
